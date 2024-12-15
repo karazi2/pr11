@@ -1,16 +1,8 @@
-# pr11
+# АНТОНОВ ЯРОСЛАВ ЭФБО-02-22
+# ПРАКТИКА 11
 
-A new Flutter project.
+# Подключение Supbase
+![image](https://github.com/user-attachments/assets/ab688169-9fe7-40f1-8aed-73fb2d7b50ee)
 
-## Getting Started
+https://github.com/user-attachments/assets/ffe15665-65d1-4f1b-84f7-d31f1a32aa80
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
